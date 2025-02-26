@@ -9,7 +9,7 @@ Numpy
 pandas
 Sklearn
 
-Updated -> 
+**_Updated_**
 
 models added -> Ridge and Lasso regression 
 
