@@ -8,3 +8,9 @@ Library used :-
 Numpy
 pandas
 Sklearn
+
+Updated -> 
+
+models added -> Ridge and Lasso regression 
+
+R2 score -> 0.93
